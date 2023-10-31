@@ -3,6 +3,5 @@ esta es mi primer commit
 
 tengo 28 años 
 
-version 1
 
-hablaremos de su vida y obra maestra
+mañana nos enfocaremos en su vida laboral
