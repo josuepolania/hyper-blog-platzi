@@ -1,20 +1,29 @@
 body 
 {
-    color:#c42d2d;
+    background-attachment: fixed;
+    color:#141414;
     text-align:center;
     font-family: 'Courier New', Courier, monospace;
     font-size:16px;
-    margin:0;padding:0q
+    margin:0;
+    padding:0;
 }
 
 #cabecera 
 {
-    background:rgb(255, 63, 37);
+    background-color: url("../imagenes/darthvader.jpg") no-repeat center content-box ;
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
-    color:#fff;
+    color:#4e4c4c;
     font-weight:700;
     margin:0;
-    padding:.5em
+    padding:.5em 0.0em 2em
+}
+
+#cabecera #logo 
+{
+    width: 20 px;
+    vertical-align: middle;
+
 }
     
 #cabecera #tagline
@@ -40,5 +49,6 @@ body
 
 #post 
 {
+    background: white;
     padding:1em
 }
